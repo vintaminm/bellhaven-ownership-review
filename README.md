@@ -4,6 +4,8 @@ A local review queue for keeping facility ownership in sync with Bellhaven's web
 
 ![Evidence review interface](assets/review.jpg)
 
+[Watch the two-minute demo](https://drive.google.com/file/d/1n5yyht86ruDTixaeI7G_fV4DRUSih6Ig/view) · Anyone with the link can view.
+
 ## Run locally
 
 Requires Python 3.11+ on macOS or Linux. No third-party packages or paid services are needed.
