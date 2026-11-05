@@ -1,0 +1,9 @@
+state/
+__pycache__/
+.env
+*.pyc
+*.mp4
+*.aiff
+*.wav
+*.sqlite3
+*.sqlite3-*

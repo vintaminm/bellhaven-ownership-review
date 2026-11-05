@@ -1,0 +1,51 @@
+{
+  "verified_at": "2026-11-05T06:42:25+00:00",
+  "initial_accounts": 121,
+  "final_accounts": 127,
+  "website_locations": 35,
+  "current_bellhaven_locations": 35,
+  "chow": [
+    {
+      "old_account": "001A34WFSUYHCRBLFT",
+      "new_account": "001E55C3CDC89AA581",
+      "old_preserved": true,
+      "lifetime_revenue": 51250,
+      "outstanding_ar": 3800
+    },
+    {
+      "old_account": "001U6RW32TY0WSXZZB",
+      "new_account": "001850DC1959414971",
+      "old_preserved": true,
+      "lifetime_revenue": 84000,
+      "outstanding_ar": 12400
+    }
+  ],
+  "inactive_duplicates": 7,
+  "needs_review": [
+    "Bellhaven Care Center of Alliance",
+    "Bellhaven of Coldwater",
+    "Bellhaven of Sandusky"
+  ],
+  "decisions": {
+    "rejected": 2,
+    "approved": 31
+  },
+  "latest_run": {
+    "fetched_at": "2026-11-05T06:41:23+00:00",
+    "directory_count": 34,
+    "total_locations": 35,
+    "pages": [
+      "/",
+      "/communities",
+      "/communities?page=1",
+      "/communities?page=2",
+      "/communities?page=3"
+    ],
+    "detail_pages": 35,
+    "crm_accounts": 127,
+    "confident_matches": 35,
+    "generated": 0,
+    "new_proposals": 0,
+    "pending": 0
+  }
+}

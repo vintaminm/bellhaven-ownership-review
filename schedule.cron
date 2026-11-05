@@ -1,0 +1,2 @@
+CRON_TZ=America/New_York
+15 6 * * * . /absolute/path/to/protected-bellhaven.env && cd /absolute/path/to/bellhaven-reconcile && /usr/bin/python3 bellhaven.py run >> /absolute/path/to/bellhaven-reconcile/state/daily.log 2>&1
